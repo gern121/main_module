@@ -1,0 +1,6 @@
+[submodule "math_lib"]
+	path = math_lib
+	url = https://github.com/gern121/math_lib.git
+[submodule "log_lib"]
+	path = log_lib
+	url = https://github.com/gern121/log_lib.git
